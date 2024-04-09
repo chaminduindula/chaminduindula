@@ -2932,7 +2932,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Star%20Princess&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
 
 
-<img src="https://github.com/BlackAmda/BlackAmda/blob/main/BlackAmda.gif" width="200">
+<img src="https://i.ibb.co/X7MXN1m/0-W2-NCV6-Imgur.png" width="200">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.;%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);)](https://git.io/typing-svg) </div>
