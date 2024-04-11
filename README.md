@@ -2934,8 +2934,7 @@
 
 <img src="https://i.ibb.co/X7MXN1m/0-W2-NCV6-Imgur.png" width="200">
 
-
-World Multi-device whatsapp bot 🎉
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000BF7&random=false&width=435&lines=World+Multi-device+whatsapp+bot+%F0%9F%8E%89;Deployed+By+Chami)](https://git.io/typing-svg)
   ---  
 
 
