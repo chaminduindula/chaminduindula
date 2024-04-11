@@ -2935,7 +2935,7 @@
 <img src="https://i.ibb.co/X7MXN1m/0-W2-NCV6-Imgur.png" width="200">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.;%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);)](https://git.io/typing-svg) </div>
+[![Typing SVG](World Multi-device whatsapp bot 🎉) </div>
      
 </div>
 
