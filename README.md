@@ -2960,22 +2960,17 @@
 #### 💫 **I am a beginner developer. 🌆**
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackAmda&show_icons=true&theme=highcontrast" alt="BlackAmda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Star-Princess&show_icons=true&theme=highcontrast" alt="chaminduindula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackAmda&theme=highcontrast" alt="BlackAmda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackAmda&theme=highcontrast" alt="chaminduindula" /></p>
 </details>
 
 ---
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/amda_niwasa_official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="BlackAmda" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Black_Amda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="BlackAmda" height="30" width="40" /></a>
-</p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=BlackAmda)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=chaminduindula)
 
 </details>
 
@@ -2984,7 +2979,7 @@
 
 ![Metrics](https://metrics.lecoq.io/BlackAmda?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/BlackAmda/QueenAmdi)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/chaminduindula/Star-Princess)
 
 </details>
 
