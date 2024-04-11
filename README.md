@@ -2935,10 +2935,7 @@
 <img src="https://i.ibb.co/X7MXN1m/0-W2-NCV6-Imgur.png" width="200">
 
 
-[![Typing SVG](World Multi-device whatsapp bot 🎉) </div>
-     
-</div>
-
+World Multi-device whatsapp bot 🎉
   ---  
 
 
